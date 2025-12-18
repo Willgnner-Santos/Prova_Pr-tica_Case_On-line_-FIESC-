@@ -1,0 +1,37 @@
+# --- Dados / artefatos grandes ---
+/Dados/
+/Modelos/catboost_info/
+/Modelos/**/catboost_info/
+*.pkl
+
+# --- Documentos ---
+*.docx
+*.pdf
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# --- Ambientes virtuais ---
+.venv/
+venv/
+ENV/
+env/
+
+# --- Logs / temporários ---
+*.log
+tmp/
+temp/
+
+# --- Sistema operacional / IDE ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
