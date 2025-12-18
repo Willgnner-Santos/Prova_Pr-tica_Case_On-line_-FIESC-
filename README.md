@@ -1,5 +1,7 @@
 # Case FIESC — Classificação de espectros (5 classes)
 
+# Link dos dados: https://huggingface.co/datasets/Willgnner-Santos/Prova-Pratica-Case-Online-FIESC
+
 ## Visão geral
 Desenvolvi um pipeline completo para **análise e classificação supervisionada** de espectros (faixa aproximada **780–1080 nm**), usando **5 arquivos CSV** (uma classe por arquivo).  
 Implementei também uma etapa **não supervisionada (clustering)** e três arquiteturas de **aprendizado profundo** para comparar desempenho.
