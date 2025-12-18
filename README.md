@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Prova_Prática_Case_On-line_FIESC
 Processo feito na FIESC, mais detalhes de vagas: https://fiesc.pandape.infojobs.com.br/
 =======
@@ -141,5 +140,3 @@ Durante a execução eu gerei:
 - Consolidar os melhores hiperparâmetros com GridSearch/Optuna
 - Exportar também um `requirements.txt`
 - Criar um script (CLI) para treinar e inferir sem depender do notebook
-
->>>>>>> 7d7acf8 (Projeto: pipeline de classificação de espectros (FIESC))
